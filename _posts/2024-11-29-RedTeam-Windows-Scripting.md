@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Mi Primer Post"
+title: "RedTeam Windows Scripting"
 date: 2024-11-29
 categories: redteam
 ---
 
-# Lenguaje Script f0r VXers
+# {{ post.title }}
+
 ## 1. VBA
 ### 1.1. Uso de VBA cómo lenguaje script para documentos
 Vamos hacer una instrumentación común cómo la que se haría en un documento Word
