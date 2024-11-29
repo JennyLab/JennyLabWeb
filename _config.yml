@@ -1,0 +1,11 @@
+title: "JennyLab"
+description: "Un blog de laboratorio."
+baseurl: ""  # Déjalo vacío si tu sitio está en la raíz
+url: "https://www.jennylab.site" 
+theme: minima
+markdown: kramdown
+highlighter: rouge
+
+# Paginación (opcional)
+paginate: 5
+paginate_path: "/posts/page:num/"
