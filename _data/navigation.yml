@@ -1,0 +1,4 @@
+- name: "Inicio"
+  link: "/"
+- name: "Posts"
+  link: "/posts/"

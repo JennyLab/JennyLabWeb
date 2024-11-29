@@ -4,7 +4,8 @@ baseurl: ""  # Déjalo vacío si tu sitio está en la raíz
 url: "https://www.jennylab.site" 
 theme: minima
 minima:
-	skin: dark
+ include_nav: true
+ skin: dark
 markdown: kramdown
 highlighter: rouge
 
