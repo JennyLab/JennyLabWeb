@@ -3,6 +3,8 @@ description: "Un blog de laboratorio."
 baseurl: ""  # Déjalo vacío si tu sitio está en la raíz
 url: "https://www.jennylab.site" 
 theme: minima
+minima:
+	skin: dark
 markdown: kramdown
 highlighter: rouge
 
