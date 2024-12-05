@@ -1,5 +1,3 @@
-title: "JennyLab"
-description: "Un blog de laboratorio."
 baseurl: ""  # Déjalo vacío si tu sitio está en la raíz
 url: "https://www.jennylab.site" 
 theme: minima
