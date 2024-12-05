@@ -1,3 +1,5 @@
+title: "JennyLab sch00l"
+description: "Training del laboratorio de JennyLab"
 baseurl: ""  # Déjalo vacío si tu sitio está en la raíz
 url: "https://www.jennylab.site" 
 theme: minima
