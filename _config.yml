@@ -11,4 +11,4 @@ highlighter: rouge
 
 # Paginación (opcional)
 paginate: 5
-paginate_path: "/posts/page:num/"
+paginate_path: "/pages/page:num/"
