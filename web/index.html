@@ -18,11 +18,11 @@
             <ul>
                 <!-- Se asume que se itera sobre una lista de páginas con un lenguaje de servidor -->
                 <!-- Este bucle no es válido en HTML puro y necesitará un lenguaje de servidor para procesar -->
-                {% for page in site.pages limit:150 %}
+                {% for post in site.posts limit:150 %}
                     <li>
-                        <a href="{{ page.url }}">
-                            <h3>{{ page.filename }}:</h3>
-                            <h4>{{ page.title }}</h4>
+                        <a href="{{ post.url }}">
+                            <h3>{{ post.filename }}:</h3>
+                            <h4>{{ post.title }}</h4>
                         </a>
                     </li>
                 {% endfor %}
