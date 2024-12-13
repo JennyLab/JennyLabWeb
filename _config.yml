@@ -11,4 +11,4 @@ highlighter: rouge
 
 # Paginación (opcional)
 paginate: 5
-paginate_path: "/pages/product/p2_sample:num/"
+paginate_path: "/pages/pages:num/"
